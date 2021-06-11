@@ -5,7 +5,7 @@ import 'profil.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: Profile(),
+    home: Accueil(),
   ));
 }
 
